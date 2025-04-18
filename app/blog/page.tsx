@@ -50,7 +50,7 @@ export default function BlogPage() {
             <Card>
               <CardContent className="p-6">
                 <div className="relative h-48 w-full overflow-hidden rounded-lg">
-                  <Image src="/images/blog-2.jpg" alt="Blog Görseli" fill className="object-cover" />
+                  <Image src="/images/blog-2.webp" alt="Blog Görseli" fill className="object-cover" />
                 </div>
                 <div className="mt-4">
                   <div className="flex items-center">
@@ -72,7 +72,7 @@ export default function BlogPage() {
             <Card>
               <CardContent className="p-6">
                 <div className="relative h-48 w-full overflow-hidden rounded-lg">
-                  <Image src="/images/blog-3.jpg" alt="Blog Görseli" fill className="object-cover" />
+                  <Image src="/images/blog-3.webp" alt="Blog Görseli" fill className="object-cover" />
                 </div>
                 <div className="mt-4">
                   <div className="flex items-center">
@@ -96,7 +96,7 @@ export default function BlogPage() {
             <Card>
               <CardContent className="p-6">
                 <div className="relative h-48 w-full overflow-hidden rounded-lg">
-                  <Image src="/images/blog-4.jpg" alt="Blog Görseli" fill className="object-cover" />
+                  <Image src="/images/blog-4.webp" alt="Blog Görseli" fill className="object-cover" />
                 </div>
                 <div className="mt-4">
                   <div className="flex items-center">
@@ -118,7 +118,7 @@ export default function BlogPage() {
             <Card>
               <CardContent className="p-6">
                 <div className="relative h-48 w-full overflow-hidden rounded-lg">
-                  <Image src="/images/blog-5.jpg" alt="Blog Görseli" fill className="object-cover" />
+                  <Image src="/images/blog-5.webp" alt="Blog Görseli" fill className="object-cover" />
                 </div>
                 <div className="mt-4">
                   <div className="flex items-center">

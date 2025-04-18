@@ -95,6 +95,40 @@ export default function Home() {
         </div>
       </section>
 
+      
+      {/* About Section */}
+      <section className="py-16">
+        <div className="container px-4 md:px-6">
+          <div className="grid gap-12 md:grid-cols-2">
+            <div className="flex flex-col justify-center">
+              <h2 className="text-3xl font-bold tracking-tight text-slate-900 sm:text-4xl">Av. Gün Çevik Hakkında</h2>
+              <p className="mt-4 text-slate-600">
+                Av. Gün Çevik, 15 yılı aşkın mesleki deneyimi ile hukuk alanında uzmanlaşmış bir avukattır. İstanbul
+                Üniversitesi Hukuk Fakültesi mezunu olan Av. Çevik, kariyeri boyunca birçok karmaşık davada başarılı
+                sonuçlar elde etmiştir.
+              </p>
+              <p className="mt-4 text-slate-600">
+                Müvekkillerinin haklarını korumak ve en iyi hukuki çözümleri sunmak için titizlikle çalışan Av. Çevik,
+                dürüstlük, şeffaflık ve profesyonellik ilkelerini benimsemektedir.
+              </p>
+              <div className="mt-8">
+                <Button
+                  asChild
+                  variant="outline"
+                  className="border-slate-900 text-slate-900 hover:bg-slate-900 hover:text-white"
+                >
+                  <Link href="/hakkimizda">Daha Fazla Bilgi</Link>
+                </Button>
+              </div>
+            </div>
+            <div className="relative h-[400px] overflow-hidden rounded-lg">
+              <Image src="/images/lawyer-portrait.jpg" alt="Av. Gün Çevik" fill className="object-cover" />
+            </div>
+          </div>
+        </div>
+      </section>
+
+
       {/* Services Section */}
       <section className="bg-slate-900 py-16 text-white">
         <div className="container px-4 md:px-6">

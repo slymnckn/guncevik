@@ -34,3 +34,18 @@ export default function RootLayout({
     </html>
   )
 }
+<a
+  href="https://wa.me/905555555555"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="fixed bottom-5 right-5 z-50 flex items-center justify-center w-14 h-14 rounded-full bg-green-500 shadow-lg hover:bg-green-600 transition-all md:w-16 md:h-16"
+>
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    fill="white"
+    viewBox="0 0 448 512"
+    className="w-6 h-6 md:w-8 md:h-8"
+  >
+    <path d="M380.9 97.1C339 ... (uzun path buraya gelecek)" />
+  </svg>
+</a>

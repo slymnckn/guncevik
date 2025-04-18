@@ -200,7 +200,7 @@ export default function Home() {
             <Card>
               <CardContent className="p-6">
                 <div className="relative h-48 w-full overflow-hidden rounded-lg">
-                  <Image src="/images/blog-2.jpg" alt="Blog Görseli" fill className="object-cover" />
+                  <Image src="/images/blog-2.webp" alt="Blog Görseli" fill className="object-cover" />
                 </div>
                 <div className="mt-4">
                   <p className="text-sm text-slate-500">5 Mart 2023</p>
@@ -217,7 +217,7 @@ export default function Home() {
             <Card>
               <CardContent className="p-6">
                 <div className="relative h-48 w-full overflow-hidden rounded-lg">
-                  <Image src="/images/blog-3.jpg" alt="Blog Görseli" fill className="object-cover" />
+                  <Image src="/images/blog-3.webp" alt="Blog Görseli" fill className="object-cover" />
                 </div>
                 <div className="mt-4">
                   <p className="text-sm text-slate-500">18 Şubat 2023</p>

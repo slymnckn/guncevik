@@ -48,7 +48,7 @@ export default function ContactPage() {
                   </div>
                   <div className="ml-4">
                     <h3 className="text-lg font-medium text-slate-900">Adres</h3>
-                    <p className="mt-1 text-slate-600">Bağdat Caddesi No: 123, Kadıköy, İstanbul</p>
+                    <p className="mt-1 text-slate-600">Konak Mahallesi 895. Sokak No:5 D:101 Konak İzmir</p>
                   </div>
                 </div>
                 <div className="flex items-start">
@@ -70,7 +70,7 @@ export default function ContactPage() {
                   </div>
                   <div className="ml-4">
                     <h3 className="text-lg font-medium text-slate-900">Telefon</h3>
-                    <p className="mt-1 text-slate-600">+90 (212) 123 45 67</p>
+                    <p className="mt-1 text-slate-600">+90 542 (825) 0639</p>
                   </div>
                 </div>
                 <div className="flex items-start">
@@ -92,7 +92,7 @@ export default function ContactPage() {
                   </div>
                   <div className="ml-4">
                     <h3 className="text-lg font-medium text-slate-900">E-posta</h3>
-                    <p className="mt-1 text-slate-600">info@guncevik.av.tr</p>
+                    <p className="mt-1 text-slate-600">guncevikhukuk@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-start">
@@ -232,7 +232,7 @@ export default function ContactPage() {
           </div>
           <div className="mt-12 h-[400px] w-full overflow-hidden rounded-lg">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3011.6505890983297!2d29.0630699!3d40.9867235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac790b17f8c2f%3A0xd7aa6f4a3e7c4f4e!2sBa%C4%9Fdat%20Cd.%2C%20Kad%C4%B1k%C3%B6y%2F%C4%B0stanbul!5e0!3m2!1str!2str!4v1650450000000!5m2!1str!2str"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3125.84671396134!2d27.12955487538173!3d38.42190717462086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bbd8e350d15345%3A0x7dd1a575c755bc6!2sKonak%2C%20895.%20Sk.%20No%3A5%20D%3A101%2C%2035000%20Konak%2F%C4%B0zmir!5e0!3m2!1str!2str!4v1744984235610!5m2!1str!2str"
               width="100%"
               height="100%"
               style={{ border: 0 }}

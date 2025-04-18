@@ -30,7 +30,8 @@ export default function Home() {
               asChild
               variant="outline"
               size="lg"
-              className="border-white text-white hover:bg-white hover:text-slate-900"
+              className="border-white text-black hover:bg-gray-200
+"
             >
               <Link href="/hizmetlerimiz">Hizmetlerimiz</Link>
             </Button>

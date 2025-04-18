@@ -83,39 +83,33 @@ export default function AboutPage() {
       </section>
 
       {/* Team */}
-      <section className="py-16">
-        <div className="container px-4 md:px-6">
-          <div className="mx-auto max-w-3xl text-center">
-            <h2 className="text-3xl font-bold tracking-tight text-slate-900 sm:text-4xl">Ekibimiz</h2>
-            <p className="mt-4 text-slate-600">
-              Alanında uzman avukatlardan oluşan ekibimizle sizlere en iyi hukuki hizmeti sunuyoruz.
-            </p>
-          </div>
-          <div className="mt-12 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
-            <div className="flex flex-col items-center text-center">
-              <div className="relative h-[200px] w-[200px] overflow-hidden rounded-full">
-                <Image src="/images/team-1.jpg" alt="Takım Üyesi" fill className="object-cover" />
-              </div>
-              <h3 className="mt-6 text-xl font-bold text-slate-900">Av. Ayşe Yılmaz</h3>
-              <p className="mt-2 text-slate-600">Ortak, Aile Hukuku Uzmanı</p>
-            </div>
-            <div className="flex flex-col items-center text-center">
-              <div className="relative h-[200px] w-[200px] overflow-hidden rounded-full">
-                <Image src="/images/team-2.jpg" alt="Takım Üyesi" fill className="object-cover" />
-              </div>
-              <h3 className="mt-6 text-xl font-bold text-slate-900">Av. Mehmet Kaya</h3>
-              <p className="mt-2 text-slate-600">Ortak, Ticaret Hukuku Uzmanı</p>
-            </div>
-            <div className="flex flex-col items-center text-center">
-              <div className="relative h-[200px] w-[200px] overflow-hidden rounded-full">
-                <Image src="/images/team-3.jpg" alt="Takım Üyesi" fill className="object-cover" />
-              </div>
-              <h3 className="mt-6 text-xl font-bold text-slate-900">Av. Zeynep Demir</h3>
-              <p className="mt-2 text-slate-600">Kıdemli Avukat, İş Hukuku Uzmanı</p>
-            </div>
-          </div>
+<section className="py-16">
+  <div className="container px-4 md:px-6">
+    <div className="mx-auto max-w-3xl text-center">
+      <h2 className="text-3xl font-bold tracking-tight text-slate-900 sm:text-4xl">Ekibimiz</h2>
+      <p className="mt-4 text-slate-600">
+        Alanında uzman avukatlardan oluşan ekibimizle sizlere en iyi hukuki hizmeti sunuyoruz.
+      </p>
+    </div>
+    <div className="mt-12 grid gap-8 sm:grid-cols-2">
+      <div className="flex flex-col items-center text-center">
+        <div className="relative h-[200px] w-[200px] overflow-hidden rounded-full">
+          <Image src="/images/team-1.jpg" alt="Takım Üyesi" fill className="object-cover" />
         </div>
-      </section>
+        <h3 className="mt-6 text-xl font-bold text-slate-900">Av. Ayşe Yılmaz</h3>
+        <p className="mt-2 text-slate-600">Ortak, Aile Hukuku Uzmanı</p>
+      </div>
+      <div className="flex flex-col items-center text-center">
+        <div className="relative h-[200px] w-[200px] overflow-hidden rounded-full">
+          <Image src="/images/team-2.jpg" alt="Takım Üyesi" fill className="object-cover" />
+        </div>
+        <h3 className="mt-6 text-xl font-bold text-slate-900">Av. Mehmet Kaya</h3>
+        <p className="mt-2 text-slate-600">Ortak, Ticaret Hukuku Uzmanı</p>
+      </div>
+    </div>
+  </div>
+</section>
+
 
       {/* Values */}
       <section className="bg-slate-900 py-16 text-white">

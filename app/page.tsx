@@ -11,7 +11,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="relative h-[600px] w-full overflow-hidden">
         <div className="absolute inset-0">
-          <Image src="/images/hero-background.jpg" alt="Hukuk Bürosu" fill className="object-cover" priority />
+          <Image src="/images/hero-bg-yeni.jpg" alt="Hukuk Bürosu" fill className="object-cover" priority />
         </div>
         <div className="absolute inset-0 bg-slate-900/70"></div>
         <div className="container relative z-10 flex h-full flex-col justify-center px-4 text-white md:px-6">

@@ -70,7 +70,8 @@ export default function ContactPage() {
                   </div>
                   <div className="ml-4">
                     <h3 className="text-lg font-medium text-slate-900">Telefon</h3>
-                    <p className="mt-1 text-slate-600">+90 542 (825) 0639</p>
+                    <p className="mt-1 text-slate-600">İrfan Çevik +90 542 825 0639</p>
+                    <p className="mt-1 text-slate-600">Ayşe Gökçen Çevik: +90 553 667 16 58</p>
                   </div>
                 </div>
                 <div className="flex items-start">

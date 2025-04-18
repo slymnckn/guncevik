@@ -37,7 +37,7 @@ export default function RootLayout({
 
           {/* ✅ WhatsApp Butonu */}
           <a
-             href="https://wa.me/905555555555"
+             href="https://wa.me/905454807943"
              target="_blank"
              rel="noopener noreferrer"
              className="fixed bottom-5 right-5 z-50"

@@ -14,7 +14,7 @@ export default function Navbar() {
     <header className="sticky top-0 z-50 w-full border-b bg-white">
       <div className="container flex h-16 items-center px-4 md:px-6">
         <Link href="/" className="flex items-center gap-2">
-          <div className="relative h-30 w-30">
+          <div className="relative h-10 w-10">
             <Image src="/images/logo.png" alt="Gün Çevik Hukuk" fill className="object-contain" />
           </div>
           <span className="text-lg font-bold text-slate-900">GÜN ÇEVİK HUKUK</span>

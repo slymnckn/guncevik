@@ -241,6 +241,17 @@ export default function Footer() {
           <p className="text-sm text-slate-400">
             &copy; {new Date().getFullYear()} Gün Çevik Hukuk Bürosu. Tüm hakları saklıdır.
           </p>
+          <p className="text-xs text-slate-500 mt-2">
+            Powered by{' '}
+            <a
+              href="https://www.broosmedia.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-red-500 hover:underline"
+            >
+              Broos Media
+            </a>
+          </p>
         </div>
       </div>
     </footer>

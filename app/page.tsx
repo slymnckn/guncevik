@@ -365,7 +365,15 @@ export default function Home() {
               </div>
             </div>
             <div>
-              <ContactForm />
+            <div className="relative h-[400px] w-full max-w-2xl mx-auto overflow-hidden rounded-lg shadow-md">
+  <Image
+    src="/images/contact-visual.jpg"
+    alt="İletişim Görseli"
+    fill
+    className="object-cover"
+  />
+</div>
+
             </div>
           </div>
         </div>

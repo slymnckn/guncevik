@@ -320,16 +320,9 @@ export default function Home() {
                 </div>
                 <div className="flex items-start">
                   <div className="flex h-10 w-10 items-center justify-center rounded-full bg-red-100 text-red-600">
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      fill="none"
-                      viewBox="0 0 24 24"
-                      strokeWidth={1.5}
-                      stroke="currentColor"
-                      className="h-5 w-5"
-                      >
-                      <path d="M3.654 1.328a.678.678 0 0 1 1.018-.063l2.29 2.29c.329.329.445.812.302 1.24L6.58 6.21a.678.678 0 0 0 .163.71l3.393 3.393a.678.678 0 0 0 .71.163l1.415-.684c.428-.143.911-.027 1.24.302l2.29 2.29a.678.678 0 0 1-.063 1.018l-1.745 1.745c-.372.372-.894.582-1.43.582C4.675 16 0 11.325 0 5.678c0-.536.21-1.058.582-1.43L2.327 2.5z" />
-                    </svg>
+                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.8} stroke="currentColor" className="w-5 h-5">
+  <path strokeLinecap="round" strokeLinejoin="round" d="M3 5h2l3.6 7.59-1.35 2.45a1 1 0 00.9 1.48H17a1 1 0 001-1v-1M16 3h3a2 2 0 012 2v13a2 2 0 01-2 2h-3" />
+</svg>
                   </div>
                   <div className="ml-4">
                     <h3 className="text-lg font-medium text-slate-900">Telefon</h3>

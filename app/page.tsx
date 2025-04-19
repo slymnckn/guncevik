@@ -327,7 +327,7 @@ export default function Home() {
                   </div>
                   <div className="ml-4">
                     <h3 className="text-lg font-medium text-slate-900">Telefon</h3>
-                    <p className="mt-1 text-slate-600">+90 (212) 123 45 67</p>
+                    <p className="mt-1 text-slate-600">+90 542 825 0639</p>
                   </div>
                 </div>
                 <div className="flex items-start">

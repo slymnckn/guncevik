@@ -349,7 +349,7 @@ export default function Home() {
                   </div>
                   <div className="ml-4">
                     <h3 className="text-lg font-medium text-slate-900">E-posta</h3>
-                    <p className="mt-1 text-slate-600">info@guncevik.av.tr</p>
+                    <p className="mt-1 text-slate-600">guncevikhukuk@gmail.com</p>
                   </div>
                 </div>
               </div>

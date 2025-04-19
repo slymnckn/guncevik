@@ -315,7 +315,7 @@ export default function Home() {
                   </div>
                   <div className="ml-4">
                     <h3 className="text-lg font-medium text-slate-900">Adres</h3>
-                    <p className="mt-1 text-slate-600">Bağdat Caddesi No: 123, Kadıköy, İstanbul</p>
+                    <p className="mt-1 text-slate-600">Konak Mahallesi 895. Sokak No:5 D:101 Konak İzmir</p>
                   </div>
                 </div>
                 <div className="flex items-start">
